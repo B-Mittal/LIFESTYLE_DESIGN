@@ -26,6 +26,19 @@ The below are the screenshots that validate the use of this core AZURE Service i
 ![image](https://github.com/B-Mittal/LIFESTYLE_DESIGN/assets/168446223/8fbb86ef-9210-428d-aa1e-25f2b2a5ce78)
 ![image](https://github.com/B-Mittal/LIFESTYLE_DESIGN/assets/168446223/90109b3a-dac8-4802-8023-c0dab8e5b413)
 
+Now the AZURE AI Service that I have used is the AZURE Cognitive Services for Creating and Configuring Custom QnA Bot using Language Services. This bot give answers to the users based on already feeded questions and answers. This AZURE AI Bot Service has been used to:
+Enhanced User Experience
+24/7 Availability
+Scalability
+Multi-Channel Support
+Integration with Azure Services
+Analytics and Insights
+Customization and Extensibility
+The below is the screenshot attached that validates the use of the service in my project:
+![image](https://github.com/B-Mittal/LIFESTYLE_DESIGN/assets/168446223/85d39a09-c58b-4b5d-b5ec-07471e263986)
+
+
+
 
 
 
