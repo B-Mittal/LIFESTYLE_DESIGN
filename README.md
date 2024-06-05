@@ -10,8 +10,24 @@ Serverless API Integration
 Custom Domain and SSL
 Authentication: Implementing authentication was seamless with Azure Static Web Apps.
 Staging Environments: The service’s ability to create staging environments for each pull request was invaluable.
-
 The Below is the screenshot that validates the use of above mentioned AZURE service in my project:
 ![image](https://github.com/B-Mittal/LIFESTYLE_DESIGN/assets/168446223/00955957-41bd-48a8-866e-1ed30394fb64)
 
-![image](https://github.com/B-Mittal/LIFESTYLE_DESIGN/assets/168446223/a59267a1-303f-4a44-bf2f-af2761803aac)
+Additionally I have used AZURE Blob Storage by creating a container inside the storage for the following purposes:
+Scalable Storage
+Cost-Effective Storage
+High Availability
+Content Delivery
+Security and Access Control
+Backup and Disaster Recovery
+Integration with Azure Services
+Support for Various Workloads
+The below are the screenshots that validate the use of this core AZURE Service in my project
+![image](https://github.com/B-Mittal/LIFESTYLE_DESIGN/assets/168446223/8fbb86ef-9210-428d-aa1e-25f2b2a5ce78)
+![image](https://github.com/B-Mittal/LIFESTYLE_DESIGN/assets/168446223/90109b3a-dac8-4802-8023-c0dab8e5b413)
+
+
+
+
+
+
